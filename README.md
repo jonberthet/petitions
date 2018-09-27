@@ -1,6 +1,3 @@
-Jon was here and he's staying !!!!!
-
-
 # We The People petitions application
 
 Drupal 7 code base used to build an application that lets users create and sign petitions.
